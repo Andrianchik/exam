@@ -1,0 +1,4 @@
+﻿  exam.cpp
+D:\visual\exam\exam\exam.cpp(38,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\visual\exam\exam\exam.cpp(39,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  exam.vcxproj -> D:\visual\exam\x64\Debug\exam.exe
